@@ -1,0 +1,24 @@
+{
+  "name": "biskut",
+  "description": "Biskut let's you to connect your redux actions in express js server",
+  "version": "1.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/msbadar/biskut",
+  "dependencies": {},
+  "keywords": [
+    "react",
+    "redux",
+    "api",
+    "fetch",
+    "express"
+  ],
+  "author": {
+    "name": "MS Badar"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/msbadar/biskut.git"
+  }
+  
+}
