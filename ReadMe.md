@@ -1,6 +1,4 @@
-# Biskut
-
-Biskut let's you to connect your redux actions in express js server
+This package let's you to connect your redux actions in express js server
 
 ### Ations.js from client app
 ```
